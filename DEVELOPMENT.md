@@ -11,3 +11,4 @@
 [2026-01-01 20:45:34] Refactor cloudwatch logs configuration
 [2026-01-01 15:57:15] Refactor cloudwatch logs configuration
 [2026-01-01 18:24:59] Update environment variables
+[2026-01-01 15:50:21] Update README documentation
