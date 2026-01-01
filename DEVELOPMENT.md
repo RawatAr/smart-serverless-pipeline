@@ -6,3 +6,4 @@
 [2026-01-01 22:42:58] Update README documentation
 [2026-01-01 11:31:21] Update environment variables
 [2026-01-01 14:40:16] Add event source mapping
+[2026-01-01 22:46:17] Add event source mapping
