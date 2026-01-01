@@ -8,3 +8,4 @@
 [2026-01-01 14:40:16] Add event source mapping
 [2026-01-01 22:46:17] Add event source mapping
 [2026-01-01 21:11:47] Update README documentation
+[2026-01-01 20:45:34] Refactor cloudwatch logs configuration
