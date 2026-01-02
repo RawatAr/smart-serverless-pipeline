@@ -30,3 +30,4 @@
 [2026-01-02 13:40:48] Add terraform modules
 [2026-01-02 17:57:14] Refactor cloudwatch logs configuration
 [2026-01-02 21:06:52] Add event source mapping
+[2026-01-02 16:23:09] Fix IAM policy permissions
