@@ -38,3 +38,4 @@
 [2026-01-02 21:37:09] Update README documentation
 [2026-01-02 15:18:40] Fix IAM policy permissions
 [2026-01-02 13:05:40] Update README documentation
+[2026-01-02 15:54:20] Update environment variables
