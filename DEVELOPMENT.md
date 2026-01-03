@@ -45,3 +45,4 @@
 [2026-01-02 10:19:20] Add event source mapping
 [2026-01-03 16:20:09] Update lambda function logic
 [2026-01-03 14:39:11] Update environment variables
+[2026-01-03 20:32:01] Update README documentation
