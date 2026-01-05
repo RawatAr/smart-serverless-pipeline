@@ -74,3 +74,4 @@
 [2026-01-04 20:05:07] Fix IAM policy permissions
 [2026-01-04 15:37:04] Update lambda function logic
 [2026-01-04 20:28:44] Add event source mapping
+[2026-01-05 21:51:04] Improve CI/CD pipeline script
