@@ -90,3 +90,4 @@
 [2026-01-05 12:46:21] Update lambda function logic
 [2026-01-05 10:26:27] Add unit tests for lambda
 [2026-01-05 21:03:56] Update README documentation
+[2026-01-05 17:20:12] Add event source mapping
