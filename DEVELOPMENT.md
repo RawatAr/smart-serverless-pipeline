@@ -97,3 +97,4 @@
 [2026-01-06 10:07:27] Add event source mapping
 [2026-01-06 10:48:22] Update README documentation
 [2026-01-06 17:10:44] Update README documentation
+[2026-01-06 18:18:46] Improve CI/CD pipeline script
