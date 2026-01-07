@@ -108,3 +108,4 @@
 [2026-01-07 12:19:32] Refactor cloudwatch logs configuration
 [2026-01-07 19:58:45] Update README documentation
 [2026-01-07 22:21:58] Improve CI/CD pipeline script
+[2026-01-07 18:36:52] Update environment variables
