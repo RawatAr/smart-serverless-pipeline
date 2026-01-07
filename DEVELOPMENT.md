@@ -111,3 +111,4 @@
 [2026-01-07 18:36:52] Update environment variables
 [2026-01-07 14:40:01] Add event source mapping
 [2026-01-07 15:11:42] Fix IAM policy permissions
+[2026-01-07 12:48:56] Update README documentation
