@@ -112,3 +112,4 @@
 [2026-01-07 14:40:01] Add event source mapping
 [2026-01-07 15:11:42] Fix IAM policy permissions
 [2026-01-07 12:48:56] Update README documentation
+[2026-01-07 16:00:05] Add terraform modules
