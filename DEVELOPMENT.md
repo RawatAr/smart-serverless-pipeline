@@ -123,3 +123,4 @@
 [2026-01-07 15:03:00] Add terraform modules
 [2026-01-08 21:51:06] Add terraform modules
 [2026-01-08 19:00:09] Add unit tests for lambda
+[2026-01-08 14:34:57] Add event source mapping
