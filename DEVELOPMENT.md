@@ -133,3 +133,4 @@
 [2026-01-08 14:36:55] Update README documentation
 [2026-01-08 21:33:27] Update lambda function logic
 [2026-01-08 16:05:04] Improve CI/CD pipeline script
+[2026-01-08 18:48:32] Add unit tests for lambda
