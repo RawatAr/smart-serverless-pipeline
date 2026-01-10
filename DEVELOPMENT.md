@@ -166,3 +166,4 @@
 [2026-01-09 15:33:25] Update environment variables
 [2026-01-09 20:47:34] Update environment variables
 [2026-01-10 12:42:51] Add event source mapping
+[2026-01-10 09:46:27] Update README documentation
