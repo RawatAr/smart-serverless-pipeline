@@ -175,3 +175,4 @@
 [2026-01-10 13:36:33] Add event source mapping
 [2026-01-10 15:33:46] Update README documentation
 [2026-01-10 19:21:57] Update environment variables
+[2026-01-10 11:52:56] Refactor cloudwatch logs configuration
