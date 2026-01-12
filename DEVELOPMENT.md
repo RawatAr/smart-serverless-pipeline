@@ -204,3 +204,4 @@
 [2026-01-12 17:19:02] Update environment variables
 [2026-01-12 16:36:54] Add unit tests for lambda
 [2026-01-12 16:10:24] Update lambda function logic
+[2026-01-12 17:32:34] Update README documentation
