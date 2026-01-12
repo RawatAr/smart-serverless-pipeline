@@ -214,3 +214,4 @@
 [2026-01-12 18:23:36] Fix IAM policy permissions
 [2026-01-12 20:23:43] Update lambda function logic
 [2026-01-12 17:27:56] Refactor cloudwatch logs configuration
+[2026-01-12 16:10:13] Add unit tests for lambda
