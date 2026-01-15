@@ -247,3 +247,4 @@
 [2026-01-15 20:58:32] Update environment variables
 [2026-01-15 13:53:07] Add unit tests for lambda
 [2026-01-15 18:13:33] Fix IAM policy permissions
+[2026-01-15 16:20:10] Update README documentation
