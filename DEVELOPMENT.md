@@ -293,3 +293,4 @@
 [2026-01-18 20:31:04] Add event source mapping
 [2026-01-18 16:48:42] Fix IAM policy permissions
 [2026-01-18 21:43:42] Fix IAM policy permissions
+[2026-01-18 20:30:07] Add unit tests for lambda
