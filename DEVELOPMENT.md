@@ -301,3 +301,4 @@
 [2026-01-18 10:02:51] Add event source mapping
 [2026-01-18 12:30:47] Update lambda function logic
 [2026-01-18 21:05:15] Fix IAM policy permissions
+[2026-01-18 18:26:07] Update README documentation
