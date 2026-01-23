@@ -369,3 +369,4 @@
 [2026-01-23 17:37:16] Update lambda function logic
 [2026-01-23 17:59:45] Improve CI/CD pipeline script
 [2026-01-23 16:35:07] Add unit tests for lambda
+[2026-01-23 19:32:42] Fix IAM policy permissions
