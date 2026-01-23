@@ -373,3 +373,4 @@
 [2026-01-23 12:30:37] Add event source mapping
 [2026-01-23 16:02:15] Update environment variables
 [2026-01-23 14:55:21] Add event source mapping
+[2026-01-23 22:21:45] Update README documentation
