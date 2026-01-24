@@ -377,3 +377,4 @@
 [2026-01-23 16:56:09] Update README documentation
 [2026-01-23 12:27:20] Update lambda function logic
 [2026-01-24 09:04:05] Add event source mapping
+[2026-01-24 17:31:13] Refactor cloudwatch logs configuration
