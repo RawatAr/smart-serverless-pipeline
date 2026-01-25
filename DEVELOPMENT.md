@@ -399,3 +399,4 @@
 [2026-01-24 18:37:59] Fix IAM policy permissions
 [2026-01-24 10:47:44] Update lambda function logic
 [2026-01-24 12:31:28] Update environment variables
+[2026-01-25 17:53:33] Add event source mapping
