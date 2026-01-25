@@ -401,3 +401,4 @@
 [2026-01-24 12:31:28] Update environment variables
 [2026-01-25 17:53:33] Add event source mapping
 [2026-01-25 16:03:21] Update lambda function logic
+[2026-01-25 11:45:28] Add unit tests for lambda
