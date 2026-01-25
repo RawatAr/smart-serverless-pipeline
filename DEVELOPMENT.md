@@ -407,3 +407,4 @@
 [2026-01-25 12:59:42] Update README documentation
 [2026-01-25 14:18:41] Add unit tests for lambda
 [2026-01-25 21:02:03] Refactor cloudwatch logs configuration
+[2026-01-25 22:23:12] Update environment variables
