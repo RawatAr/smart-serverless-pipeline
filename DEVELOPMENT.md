@@ -429,3 +429,4 @@
 [2026-01-26 10:03:49] Add terraform modules
 [2026-01-26 15:36:18] Improve CI/CD pipeline script
 [2026-01-26 18:39:53] Fix IAM policy permissions
+[2026-01-27 11:45:43] Update README documentation
