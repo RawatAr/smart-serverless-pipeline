@@ -449,3 +449,4 @@
 [2026-01-28 14:57:00] Fix IAM policy permissions
 [2026-01-28 11:54:55] Update README documentation
 [2026-01-28 18:38:38] Update lambda function logic
+[2026-01-28 16:21:03] Add unit tests for lambda
