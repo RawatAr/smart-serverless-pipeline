@@ -475,3 +475,4 @@
 [2026-01-30 13:55:40] Add terraform modules
 [2026-01-31 20:32:12] Improve CI/CD pipeline script
 [2026-01-31 12:29:23] Add event source mapping
+[2026-01-31 19:46:51] Add unit tests for lambda
