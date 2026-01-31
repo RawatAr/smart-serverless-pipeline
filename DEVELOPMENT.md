@@ -481,3 +481,4 @@
 [2026-01-31 18:31:35] Add terraform modules
 [2026-01-31 14:19:54] Add unit tests for lambda
 [2026-01-31 15:56:16] Add unit tests for lambda
+[2026-01-31 14:41:22] Fix IAM policy permissions
