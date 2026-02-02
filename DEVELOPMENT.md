@@ -501,3 +501,4 @@
 [2026-02-01 21:46:43] Add event source mapping
 [2026-02-01 13:43:24] Update README documentation
 [2026-02-01 18:44:13] Update README documentation
+[2026-02-02 19:05:13] Update environment variables
