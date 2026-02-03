@@ -504,3 +504,4 @@
 [2026-02-02 19:05:13] Update environment variables
 [2026-02-02 10:31:06] Add unit tests for lambda
 [2026-02-02 14:31:13] Update lambda function logic
+[2026-02-03 16:58:02] Fix IAM policy permissions
