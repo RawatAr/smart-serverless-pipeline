@@ -511,3 +511,4 @@
 [2026-02-03 20:09:53] Update README documentation
 [2026-02-03 19:38:47] Fix IAM policy permissions
 [2026-02-03 15:03:01] Improve CI/CD pipeline script
+[2026-02-03 16:14:12] Add unit tests for lambda
