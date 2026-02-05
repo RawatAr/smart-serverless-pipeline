@@ -536,3 +536,4 @@
 [2026-02-05 13:02:47] Add event source mapping
 [2026-02-05 15:46:06] Improve CI/CD pipeline script
 [2026-02-05 20:33:38] Update lambda function logic
+[2026-02-05 15:41:38] Add unit tests for lambda
