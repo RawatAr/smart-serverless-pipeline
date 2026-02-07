@@ -558,3 +558,4 @@
 [2026-02-07 17:26:19] Add event source mapping
 [2026-02-07 14:58:43] Update README documentation
 [2026-02-07 17:36:10] Update environment variables
+[2026-02-07 14:35:52] Fix IAM policy permissions
