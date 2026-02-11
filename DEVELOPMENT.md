@@ -612,3 +612,4 @@
 [2026-02-11 14:20:03] Improve CI/CD pipeline script
 [2026-02-11 14:45:42] Update lambda function logic
 [2026-02-11 09:49:57] Improve CI/CD pipeline script
+[2026-02-11 21:03:28] Fix IAM policy permissions
