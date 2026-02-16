@@ -652,3 +652,4 @@
 [2026-02-16 17:37:42] Update README documentation
 [2026-02-16 13:36:23] Add terraform modules
 [2026-02-16 10:59:25] Fix IAM policy permissions
+[2026-02-16 14:28:33] Add unit tests for lambda
