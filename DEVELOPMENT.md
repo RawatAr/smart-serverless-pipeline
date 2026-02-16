@@ -649,3 +649,4 @@
 [2026-02-16 10:10:25] Update README documentation
 [2026-02-16 09:58:57] Update README documentation
 [2026-02-16 14:24:21] Refactor cloudwatch logs configuration
+[2026-02-16 17:37:42] Update README documentation
