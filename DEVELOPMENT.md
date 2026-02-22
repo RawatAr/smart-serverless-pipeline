@@ -737,3 +737,4 @@
 [2026-02-22 16:24:46] Update README documentation
 [2026-02-22 17:00:03] Update environment variables
 [2026-02-22 11:20:18] Refactor cloudwatch logs configuration
+[2026-02-22 14:31:34] Fix IAM policy permissions
