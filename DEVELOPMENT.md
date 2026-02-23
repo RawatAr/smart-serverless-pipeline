@@ -763,3 +763,4 @@
 [2026-02-23 18:31:08] Update README documentation
 [2026-02-23 20:05:52] Fix IAM policy permissions
 [2026-02-23 09:37:41] Update lambda function logic
+[2026-02-23 13:28:06] Update environment variables
