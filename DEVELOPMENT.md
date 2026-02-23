@@ -765,3 +765,4 @@
 [2026-02-23 09:37:41] Update lambda function logic
 [2026-02-23 13:28:06] Update environment variables
 [2026-02-23 19:25:16] Improve CI/CD pipeline script
+[2026-02-23 11:33:13] Add unit tests for lambda
