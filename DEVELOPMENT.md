@@ -804,3 +804,4 @@
 [2026-02-25 17:22:50] Add unit tests for lambda
 [2026-02-25 13:42:58] Fix IAM policy permissions
 [2026-02-25 20:16:42] Update lambda function logic
+[2026-02-25 18:14:16] Update README documentation
