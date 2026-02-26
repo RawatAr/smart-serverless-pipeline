@@ -810,3 +810,4 @@
 [2026-02-25 20:03:25] Add terraform modules
 [2026-02-26 11:33:16] Improve CI/CD pipeline script
 [2026-02-26 10:35:27] Update environment variables
+[2026-02-26 11:51:40] Fix IAM policy permissions
