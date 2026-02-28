@@ -836,3 +836,4 @@
 [2026-02-27 21:13:13] Update lambda function logic
 [2026-02-28 11:21:35] Fix IAM policy permissions
 [2026-02-28 15:57:15] Update lambda function logic
+[2026-02-28 16:57:50] Update README documentation
