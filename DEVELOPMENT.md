@@ -872,3 +872,4 @@
 [2026-03-02 11:24:46] Update README documentation
 [2026-03-02 17:39:25] Add unit tests for lambda
 [2026-03-02 12:28:34] Update README documentation
+[2026-03-02 20:16:56] Add event source mapping
