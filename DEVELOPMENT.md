@@ -867,3 +867,4 @@
 [2026-03-02 15:20:35] Update README documentation
 [2026-03-02 15:58:07] Add terraform modules
 [2026-03-02 10:32:55] Add event source mapping
+[2026-03-02 17:39:25] Add unit tests for lambda
