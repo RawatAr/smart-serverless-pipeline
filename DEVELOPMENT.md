@@ -859,3 +859,4 @@
 [2026-03-02 20:43:58] Update environment variables
 [2026-03-02 20:43:58] Add event source mapping
 [2026-03-02 16:14:38] Fix IAM policy permissions
+[2026-03-02 17:25:34] Add unit tests for lambda
