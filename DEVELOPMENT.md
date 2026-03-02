@@ -858,3 +858,4 @@
 [2026-03-02 18:00:43] Add event source mapping
 [2026-03-02 20:43:58] Update environment variables
 [2026-03-02 20:43:58] Add event source mapping
+[2026-03-02 16:14:38] Fix IAM policy permissions
