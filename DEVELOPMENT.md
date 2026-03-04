@@ -886,3 +886,4 @@
 [2026-03-04 12:26:58] Add terraform modules
 [2026-03-04 16:15:29] Update environment variables
 [2026-03-04 10:53:12] Update lambda function logic
+[2026-03-04 09:14:05] Fix IAM policy permissions
