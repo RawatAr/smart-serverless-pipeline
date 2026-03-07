@@ -916,3 +916,4 @@
 [2026-03-07 15:04:03] Add unit tests for lambda
 [2026-03-07 13:27:23] Improve CI/CD pipeline script
 [2026-03-07 13:13:19] Update README documentation
+[2026-03-07 15:42:47] Fix IAM policy permissions
