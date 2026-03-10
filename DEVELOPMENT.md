@@ -949,3 +949,4 @@
 [2026-03-09 13:35:14] Add event source mapping
 [2026-03-10 09:36:08] Add event source mapping
 [2026-03-10 16:56:35] Improve CI/CD pipeline script
+[2026-03-10 11:33:22] Fix IAM policy permissions
