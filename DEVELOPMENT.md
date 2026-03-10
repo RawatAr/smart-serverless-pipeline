@@ -957,3 +957,4 @@
 [2026-03-10 14:27:30] Update README documentation
 [2026-03-10 18:26:47] Add event source mapping
 [2026-03-10 12:40:02] Update README documentation
+[2026-03-10 12:49:59] Add terraform modules
