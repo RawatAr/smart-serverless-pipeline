@@ -993,3 +993,4 @@
 [2026-03-13 11:37:44] Update lambda function logic
 [2026-03-13 21:43:56] Add terraform modules
 [2026-03-13 13:07:44] Add terraform modules
+[2026-03-13 21:50:34] Add unit tests for lambda
