@@ -1028,3 +1028,4 @@
 [2026-03-16 15:46:29] Add unit tests for lambda
 [2026-03-16 14:42:02] Update README documentation
 [2026-03-16 15:50:12] Update environment variables
+[2026-03-16 15:38:04] Improve CI/CD pipeline script
