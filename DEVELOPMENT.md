@@ -1150,3 +1150,4 @@
 [2026-03-28 14:31:34] Update environment variables
 [2026-03-28 22:45:31] Update lambda function logic
 [2026-03-28 12:20:20] Update environment variables
+[2026-03-28 10:29:04] Fix IAM policy permissions
