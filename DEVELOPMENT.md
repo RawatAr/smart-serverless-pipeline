@@ -1290,3 +1290,4 @@
 [2026-04-07 11:35:43] Add terraform modules
 [2026-04-07 17:21:21] Update lambda function logic
 [2026-04-07 21:29:56] Add unit tests for lambda
+[2026-04-07 18:24:48] Improve CI/CD pipeline script
