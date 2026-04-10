@@ -1325,3 +1325,4 @@
 [2026-04-09 14:04:01] Fix IAM policy permissions
 [2026-04-09 20:12:10] Fix IAM policy permissions
 [2026-04-10 18:02:24] Update environment variables
+[2026-04-10 12:27:53] Update README documentation
