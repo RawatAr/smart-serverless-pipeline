@@ -1380,3 +1380,4 @@
 [2026-04-14 10:24:53] Add terraform modules
 [2026-04-14 17:17:46] Update environment variables
 [2026-04-14 17:58:36] Add event source mapping
+[2026-04-15 21:20:18] Add unit tests for lambda
