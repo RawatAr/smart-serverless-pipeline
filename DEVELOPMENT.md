@@ -1435,3 +1435,4 @@
 [2026-04-17 20:52:06] Update lambda function logic
 [2026-04-18 12:16:17] Update README documentation
 [2026-04-18 16:32:26] Update environment variables
+[2026-04-18 17:51:13] Fix IAM policy permissions
