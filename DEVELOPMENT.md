@@ -1527,3 +1527,4 @@
 [2026-04-23 15:52:41] Add terraform modules
 [2026-04-23 20:43:32] Update lambda function logic
 [2026-04-23 20:40:48] Update README documentation
+[2026-04-23 10:30:05] Fix IAM policy permissions
