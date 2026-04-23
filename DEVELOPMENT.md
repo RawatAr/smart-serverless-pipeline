@@ -1520,3 +1520,4 @@
 [2026-04-22 11:40:30] Fix IAM policy permissions
 [2026-04-22 18:02:36] Add event source mapping
 [2026-04-22 19:01:27] Update README documentation
+[2026-04-23 10:05:21] Update README documentation
