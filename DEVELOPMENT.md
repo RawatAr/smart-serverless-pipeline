@@ -1551,3 +1551,4 @@
 [2026-04-25 15:40:36] Update lambda function logic
 [2026-04-25 10:58:21] Update lambda function logic
 [2026-04-25 17:47:22] Refactor cloudwatch logs configuration
+[2026-04-25 22:32:54] Add unit tests for lambda
