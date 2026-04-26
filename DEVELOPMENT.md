@@ -1570,3 +1570,4 @@
 [2026-04-26 20:51:55] Update README documentation
 [2026-04-26 13:13:51] Add event source mapping
 [2026-04-26 21:57:18] Update environment variables
+[2026-04-26 12:14:19] Fix IAM policy permissions
