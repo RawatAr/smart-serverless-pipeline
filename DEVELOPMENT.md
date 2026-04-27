@@ -1577,3 +1577,4 @@
 [2026-04-26 17:38:09] Fix IAM policy permissions
 [2026-04-26 17:50:35] Add terraform modules
 [2026-04-27 13:37:47] Update README documentation
+[2026-04-27 13:16:00] Update environment variables
