@@ -1599,3 +1599,4 @@
 [2026-04-27 18:38:35] Update README documentation
 [2026-04-27 13:30:28] Add terraform modules
 [2026-04-27 21:51:16] Update README documentation
+[2026-04-28 21:37:37] Fix IAM policy permissions
