@@ -1654,3 +1654,4 @@
 [2026-05-02 11:55:35] Update README documentation
 [2026-05-02 17:51:17] Improve CI/CD pipeline script
 [2026-05-02 21:05:07] Update environment variables
+[2026-05-02 11:26:47] Add event source mapping
