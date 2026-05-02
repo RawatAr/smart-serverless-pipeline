@@ -1651,3 +1651,4 @@
 [2026-05-01 21:44:36] Add event source mapping
 [2026-05-02 17:58:34] Update environment variables
 [2026-05-02 14:59:07] Add terraform modules
+[2026-05-02 11:55:35] Update README documentation
