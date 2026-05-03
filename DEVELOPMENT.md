@@ -1672,3 +1672,4 @@
 [2026-05-03 17:16:45] Improve CI/CD pipeline script
 [2026-05-03 22:18:31] Update environment variables
 [2026-05-03 12:44:27] Update environment variables
+[2026-05-03 10:15:49] Fix IAM policy permissions
