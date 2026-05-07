@@ -1708,3 +1708,4 @@
 [2026-05-07 10:20:22] Improve CI/CD pipeline script
 [2026-05-07 13:44:44] Add event source mapping
 [2026-05-07 16:00:35] Fix IAM policy permissions
+[2026-05-07 11:36:14] Update README documentation
