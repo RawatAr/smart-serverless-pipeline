@@ -1742,3 +1742,4 @@
 [2026-05-08 13:29:59] Update lambda function logic
 [2026-05-08 22:12:55] Fix IAM policy permissions
 [2026-05-08 17:15:53] Fix IAM policy permissions
+[2026-05-08 17:12:35] Update README documentation
