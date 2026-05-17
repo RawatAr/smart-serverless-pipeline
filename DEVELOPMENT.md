@@ -1781,3 +1781,4 @@
 - 2026-05-16T18:24:48: Document Lambda execution roles
 - 2026-05-16T12:26:04: Add CloudWatch alarm for errors
 - 2026-05-16T11:37:33: Update Terraform variable definitions
+- 2026-05-17T13:25:41: Add AWS API Gateway CORS headers
