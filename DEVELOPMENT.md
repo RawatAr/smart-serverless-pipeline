@@ -1783,3 +1783,4 @@
 - 2026-05-16T11:37:33: Update Terraform variable definitions
 - 2026-05-17T13:25:41: Add AWS API Gateway CORS headers
 - 2026-05-17T21:58:07: Fix Terraform state lock issue
+- 2026-05-17T10:23:27: Add AWS API Gateway CORS headers
