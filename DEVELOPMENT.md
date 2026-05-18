@@ -1794,3 +1794,4 @@
 - 2026-05-18T19:58:14: Add CloudWatch alarm for errors
 - 2026-05-18T16:20:26: Update Terraform variable definitions
 - 2026-05-18T20:18:11: Update IAM policies for S3 bucket
+- 2026-05-18T13:06:59: Add AWS API Gateway CORS headers
