@@ -1803,3 +1803,4 @@
 - 2026-05-20T15:24:01: Optimize event source mapping filters
 - 2026-05-20T19:25:33: Add AWS API Gateway CORS headers
 - 2026-05-20T18:25:14: Document Lambda execution roles
+- 2026-05-20T12:54:35: Configure serverless framework offline plugin
