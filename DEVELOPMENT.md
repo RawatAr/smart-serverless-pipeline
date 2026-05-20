@@ -1801,3 +1801,4 @@
 - 2026-05-19T17:55:07: Update Terraform variable definitions
 - 2026-05-19T14:04:36: Add GitHub Actions pipeline validation
 - 2026-05-20T15:24:01: Optimize event source mapping filters
+- 2026-05-20T19:25:33: Add AWS API Gateway CORS headers
